@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/bigbinary-interview-for-luvgadhvi/static/css/main.7cf73743.chunk.css",
+    "main.js": "/bigbinary-interview-for-luvgadhvi/static/js/main.bc4e85ab.chunk.js",
+    "main.js.map": "/bigbinary-interview-for-luvgadhvi/static/js/main.bc4e85ab.chunk.js.map",
+    "runtime-main.js": "/bigbinary-interview-for-luvgadhvi/static/js/runtime-main.ffc5f26f.js",
+    "runtime-main.js.map": "/bigbinary-interview-for-luvgadhvi/static/js/runtime-main.ffc5f26f.js.map",
+    "static/css/2.e87fd90b.chunk.css": "/bigbinary-interview-for-luvgadhvi/static/css/2.e87fd90b.chunk.css",
+    "static/js/2.8003e895.chunk.js": "/bigbinary-interview-for-luvgadhvi/static/js/2.8003e895.chunk.js",
+    "static/js/2.8003e895.chunk.js.map": "/bigbinary-interview-for-luvgadhvi/static/js/2.8003e895.chunk.js.map",
+    "static/js/3.00bcf7e8.chunk.js": "/bigbinary-interview-for-luvgadhvi/static/js/3.00bcf7e8.chunk.js",
+    "static/js/3.00bcf7e8.chunk.js.map": "/bigbinary-interview-for-luvgadhvi/static/js/3.00bcf7e8.chunk.js.map",
+    "index.html": "/bigbinary-interview-for-luvgadhvi/index.html",
+    "static/css/2.e87fd90b.chunk.css.map": "/bigbinary-interview-for-luvgadhvi/static/css/2.e87fd90b.chunk.css.map",
+    "static/css/main.7cf73743.chunk.css.map": "/bigbinary-interview-for-luvgadhvi/static/css/main.7cf73743.chunk.css.map",
+    "static/js/2.8003e895.chunk.js.LICENSE.txt": "/bigbinary-interview-for-luvgadhvi/static/js/2.8003e895.chunk.js.LICENSE.txt",
+    "static/media/spacex.18beeda5.png": "/bigbinary-interview-for-luvgadhvi/static/media/spacex.18beeda5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ffc5f26f.js",
+    "static/css/2.e87fd90b.chunk.css",
+    "static/js/2.8003e895.chunk.js",
+    "static/css/main.7cf73743.chunk.css",
+    "static/js/main.bc4e85ab.chunk.js"
+  ]
+}

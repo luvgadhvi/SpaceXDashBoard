@@ -1,0 +1,9 @@
+@import 'daterangepicker/daterangepicker.css';
+
+body {
+  margin: 0;
+}
+
+#launchTable .MuiTableCell-root {
+  border-bottom: none !important;
+}
